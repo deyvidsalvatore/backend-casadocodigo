@@ -1,0 +1,1 @@
+ALTER users.user ADD COLUMN KEY VARCHAR(100);
